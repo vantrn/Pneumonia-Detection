@@ -19,23 +19,6 @@ This project is still in progress. Currently, the model can make predictions, bu
 
 ---
 
-## 📂 Project Structure
-
-Pneumonia-Detection/
-├── data/                   # Chest X-ray dataset
-│   ├── train/              # Training images (NORMAL, PNEUMONIA)
-│   ├── val/                # Validation images
-│   └── test/               # Test images
-├── model/                  # Saved model file (pneumonia_model.keras)
-├── main.py                 # Model training script
-├── evaluate.py             # Image prediction script
-├── utils.py                # (Optional) helper functions
-├── README.md               # Project documentation
-├── requirements.txt        # Dependencies (optional to include)
-└── venv/                   # Python virtual environment (not tracked by Git)
-
----
-
 ## ✅ How to Run
 
 1. Clone the repo and set up a Python virtual environment:
